@@ -36,4 +36,3 @@ This Spring Boot project provides a comprehensive backend solution for managing 
 4. Build and run the project.
 5. Access the provided endpoints using a REST client or HTTP requests.
 
-Feel free to explore and customize the project according to your requirements!
